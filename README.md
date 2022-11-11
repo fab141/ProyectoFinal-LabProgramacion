@@ -2,7 +2,7 @@
 Programación del juego clásico PacMan en python usando la librería Pygame. Creado por Faustin Acuña Burgos - B90054
 
 
-#------ DESCRIPCIÓN GENERAL  --------
+------ DESCRIPCIÓN GENERAL  --------
 
 El juego está desarrollado usando la librería Pygame. 
 Las imagenes del Pacman, los fantasmas (Clyde, Pinky, Inky, Blinky) fueron tomadas de la web.
@@ -27,3 +27,4 @@ Después se define la clase jugador que contiene
  - Los métodos para moverse, verificar colisión y cambiar de estado, comer puntos, etc
 
 Por último se ejecuta el juego en un bucle While para jugar indefinidamente hasta que el jugador desee salir de la ventana, durante la ejecución se ejecutan los métodos y las funciones definidas en las clases.
+![Screenshot from 2022-11-11 14-15-59](https://user-images.githubusercontent.com/118016955/201414127-d4c03dbb-6389-4e44-a1af-38142dc49401.png)
